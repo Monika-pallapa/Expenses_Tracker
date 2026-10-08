@@ -1,0 +1,20 @@
+[
+    {
+        "expense": "auto",
+        "amount": 40.0,
+        "category": "Travel",
+        "date": "2026-10-08"
+    },
+    {
+        "expense": "dress",
+        "amount": 2000.0,
+        "category": "Shopping",
+        "date": "2026-10-08"
+    },
+    {
+        "expense": "auto",
+        "amount": 40.0,
+        "category": "Travel",
+        "date": "2026-10-08"
+    }
+]
